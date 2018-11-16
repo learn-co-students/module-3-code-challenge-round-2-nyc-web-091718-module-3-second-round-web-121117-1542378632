@@ -5,7 +5,7 @@
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": "The comment persists to the database, but why does this only show as updated after I refresh???",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Spicy chicken tikka masala",
@@ -20,7 +20,7 @@
       "name": "Berliner Weisse With Yuzu - B-Sides",
       "tagline": "Japanese Citrus Berliner Weisse.",
       "first_brewed": "11/2015",
-      "description": "Japanese citrus fruit intensifies the sour nature of this German classic.",
+      "description": "11111",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Smoked chicken wings",
@@ -95,7 +95,7 @@
       "name": "AB:07",
       "tagline": "Whisky Cask-Aged Scotch Ale.",
       "first_brewed": "03/2010",
-      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+      "description": "Good old Bramling Cross is elegant, refined, assured, (boring) and understated. Understated that is unless you hop the living daylights out of a beer with it. This is Bramling Cross re-invented and re-imagined, and shows just what can be done with English hops if you use enough of them. Poor Bramling Cross normally gets lost in a woeful stream of conformist brown ales made by sleepy cask ale brewers. But not anymore. This beer shows that British hops do have some soul, and is a fruity riot of blackberries, pears, and plums. Reminds me of the bramble, apple and ginger jam my grandmother used to make.",
       "image_url": "https://images.punkapi.com/v2/9.png",
       "food_pairing": [
         "Kedgeree",

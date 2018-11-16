@@ -108,9 +108,24 @@ To update a beer you'll need to make a PATCH request
   }
   ```
 
+
+
+
+
+
+
   **Important Notes:**
   * For all intents and purposes, PATCH behaves the same as POST. If you know how to POST, you know how to PATCH
   * When using `fetch` to make a PATCH request, be sure to capitalize method: 'PATCH'
+
+
+
+
+
+
+
+
+
 
 
 ## Considerations
